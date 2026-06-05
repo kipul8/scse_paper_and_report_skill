@@ -1,2 +1,2 @@
-# paper_and_report_skill
+# scse_paper_and_report_skill
 基于武汉大学国家网络安全学院结课论文模板（课程考核模板.doc）制作的skill，提供paper和report两种生成和校对格式，适合搭配AI agent进行结课论文和实验报告的排版
